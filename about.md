@@ -4,6 +4,8 @@ title: Over
 permalink: /over/
 ---
 
+[<img src="{{ site.baseurl }}/images/Thijs.jpg" alt="Profielfoto Thijs" style="width: 400px;"/>]
+
 Hi, ik ben Thijs van Bruxvoort. Ik ben een zelfstandig Product Manager en Klinisch informaticus in de zorg. 
 
 ### Mijn werk
