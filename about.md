@@ -4,9 +4,6 @@ title: Over
 permalink: /over/
 ---
 
-<img src="{{ site.baseurl }}/images/Thijs.jpg" alt="Profielfoto Thijs" style="width: 400px;"/>
-
-Hi, ik ben Thijs van Bruxvoort. Ik ben een zelfstandig Product Manager en Klinisch informaticus in de zorg. 
 
 ### Mijn werk
 
@@ -23,10 +20,14 @@ Daarnaast heb ik veel gewerkt met klanten in binnen- en buitenland om de juiste 
 
 Als laatste is een rode draad in mijn professionele leven mijn passie voor het faciliteren van teams in (agile) werken. Ik krijg energie van om teams beter te laten werken met meer waarde voor de stakeholders. Mijn motto daarin is dat plezier de helft van het werk is. **Work hard, play hard**.
 
-### Contact Thijs
+### Contact
 
 Benieuwd naar wat wij voor elkaar kunnen betekenen? Stuur mij gerust een e-mail of berichtje. Kan het echt niet wachten, dan mag je ook bellen.
 
-**Bellen, Signal, WhatsApp, SMS:** +31622856763
+**Bellen, Signal, WhatsApp, iMessage:** +31622856763
 
 **E-mail:** [info@fezmo.nl](mailto:info@fezmo.nl)
+
+### Fezmo B.V.
+
+De naam van mijn onderneming is Fezmo en is geregistreerd onder nummer 90238338 bij de Kamer van Koophandel, als een [Besloten Vennootschap](https://en.wikipedia.org/wiki/Besloten_vennootschap) in Nederland.
