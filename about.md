@@ -1,15 +1,14 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Over
+permalink: /over/
 ---
 
-Some information about you!
+Hi, ik ben Thijs van Bruxvoort. Ik ben een zelfstandig Product Manager en Klinisch informaticus in de zorg. 
 
-### More Information
+### Wat ik doe
 
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[info@fezmo.nl](mailto:info@fezmo.nl)
