@@ -41,7 +41,7 @@ Ik heb veel gewerkt met klanten in binnen- en buitenland om de juiste oplossing 
 
 ### Contact
 
-Benieuwd naar wat wij voor elkaar kunnen betekenen? Stuur mij gerust een e-mail of bericht. Kan het echt niet wachten, dan mag je ook bellen.
+Benieuwd naar wat wij voor elkaar kunnen betekenen? Stuur mij gerust en bij voorkeur een e-mail of bericht. Kan het echt niet wachten, dan mag je ook bellen.
 
 :iphone: **Bellen, Signal, WhatsApp, iMessage:** +31622856763
 

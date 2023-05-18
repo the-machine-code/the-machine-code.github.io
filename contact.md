@@ -7,7 +7,7 @@ permalink: /contact/
 
 ### Contact
 
-Benieuwd naar wat wij voor elkaar kunnen betekenen? Stuur mij gerust een e-mail of bericht. Kan het echt niet wachten, dan mag je ook bellen.
+Benieuwd naar wat wij voor elkaar kunnen betekenen? Stuur mij gerust en bij voorkeur een e-mail of bericht. Kan het echt niet wachten, dan mag je ook bellen.
 
 Voel je vrij om via [LinkedIn](www.linkedin.com/in/thijsvanbruxvoort) een connectie te maken.
 
