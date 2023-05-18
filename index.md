@@ -6,13 +6,15 @@ layout: default
 </div>
 
 ## :wave: Hi, ik ben Thijs van Bruxvoort 
-Ik ben een zelfstandig Product Manager en Klinisch informaticus in de zorg. Beschikbaar om jouw organisatie te helpen met zorg-IT.
+Ik ben een zelfstandig Product Manager en Klinisch informaticus in de zorg. Beschikbaar om jouw organisatie vooruit te helpen met uitdagingen op het gebied van zorg, informatie en technologie.
 
 ---
 
-### Wat ik doe
+### In een notendop
 
-Ervaren Product Owner/Manager en Klinisch Informaticus in de zorg. Ervaring binnen en buiten de muren van de zorginstelling, voor startups en gevestigde bedrijven.
+:arrow_forward: Product Owner/Manager en Klinisch Informaticus in de zorg.
+
+:arrow_forward: Ervaring binnen en buiten de muren van de zorginstelling, bij startups en gevestigde bedrijven.
 
 Digitalisering en automatisering in de zorg is een zorgenkind. Informatie uitwisselen tussen zorginstellingen verloopt moeizaam en is versnipperd. Informatiesystemen worden niet optimaal benut en de administratielast ligt torenhoog. Zorgprofessionals krijgen niet de IT ondersteuning die nodig is. Daar zorg ik graag voor.
 
