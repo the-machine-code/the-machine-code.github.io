@@ -5,7 +5,7 @@ layout: default
 <img src="{{ site.baseurl }}/images/Thijs.png" alt="Profielfoto Thijs" align="center" style="width: 250px;"/>
 </div>
 
-## Hi, ik ben Thijs van Bruxvoort. 
+## :wave: Hi, ik ben Thijs van Bruxvoort 
 Ik ben een zelfstandig Product Manager en Klinisch informaticus in de zorg. Beschikbaar om jouw organisatie te helpen met zorg-IT.
 
 ---
@@ -41,9 +41,9 @@ Ik heb veel gewerkt met klanten in binnen- en buitenland om de juiste oplossing 
 
 Benieuwd naar wat wij voor elkaar kunnen betekenen? Stuur mij gerust een e-mail of bericht. Kan het echt niet wachten, dan mag je ook bellen.
 
-**Bellen, Signal, WhatsApp, iMessage:** +31622856763
+:iphone: **Bellen, Signal, WhatsApp, iMessage:** +31622856763
 
-**E-mail:** [info@fezmo.nl](mailto:info@fezmo.nl)
+:mailbox: **E-mail:** [info@fezmo.nl](mailto:info@fezmo.nl)
 
 ---
 _De naam van mijn onderneming is Fezmo en is geregistreerd onder nummer 90238338 bij de Kamer van Koophandel, als een [Besloten Vennootschap](https://en.wikipedia.org/wiki/Besloten_vennootschap) in Nederland._

@@ -11,9 +11,9 @@ Benieuwd naar wat wij voor elkaar kunnen betekenen? Stuur mij gerust een e-mail 
 
 Voel je vrij om via [LinkedIn](www.linkedin.com/in/thijsvanbruxvoort) een connectie te maken.
 
-**Bellen, Signal, WhatsApp, iMessage:** +31622856763
+:iphone: **Bellen, Signal, WhatsApp, iMessage:** +31622856763
 
-**E-mail:** [info@fezmo.nl](mailto:info@fezmo.nl)
+:mailbox: **E-mail:** [info@fezmo.nl](mailto:info@fezmo.nl)
 
 ---
 
