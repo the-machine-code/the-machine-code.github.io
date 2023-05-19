@@ -64,4 +64,4 @@ Benieuwd naar wat wij voor elkaar kunnen betekenen? Stuur mij gerust en bij voor
 
 ---
 
-_De naam van mijn onderneming is Fezmo en is geregistreerd onder nummer 90238338 bij de Kamer van Koophandel, als een [Besloten Vennootschap](https://en.wikipedia.org/wiki/Besloten_vennootschap) in Nederland.__De naam van mijn onderneming is Fezmo en is geregistreerd onder nummer 90238338 bij de Kamer van Koophandel, als een [Besloten Vennootschap](https://en.wikipedia.org/wiki/Besloten_vennootschap) in Nederland._
+_De naam van mijn onderneming is Fezmo en is geregistreerd onder nummer 90238338 bij de Kamer van Koophandel als een [Besloten Vennootschap](https://en.wikipedia.org/wiki/Besloten_vennootschap) in Nederland._
