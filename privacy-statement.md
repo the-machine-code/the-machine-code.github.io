@@ -6,7 +6,7 @@ permalink: /privacy-statement/
 
 ## Privacybeleid
 
-In dit privacybeleid geeft Fezmo B.V. duidelijkheid over welke gegevenser verzameld worden en gebruikt. Ons privacybeleid is van toepassing op alle diensten van Fezmo B.V. Door gebruik te maken van onze website fezmo.nl accepteer je dit privacybeleid.
+Ons privacybeleid is van toepassing op alle diensten van Fezmo B.V. Door gebruik te maken van onze website fezmo.nl accepteer je dit privacybeleid.
 
 ## Persoonsgegevens
 
