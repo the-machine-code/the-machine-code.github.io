@@ -1,12 +1,13 @@
 ---
 layout: default
+published: true
 ---
 <div style="text-align: center;">
 <img src="{{ site.baseurl }}/images/Thijs.png" alt="Profielfoto Thijs" align="center" style="width: 250px;"/>
 </div>
 
 ## :wave: Hi, ik ben Thijs van Bruxvoort 
-Ik ben een zelfstandig Product Manager en Klinisch informaticus in de zorg. Beschikbaar om jouw organisatie vooruit te helpen met uitdagingen op het gebied van zorg, informatie en technologie.
+Ik ben een zelfstandig Product Manager en Klinisch Informaticus in de zorg. Beschikbaar om jouw organisatie vooruit te helpen met uitdagingen op het gebied van zorg, informatie en technologie.
 
 ---
 
@@ -16,19 +17,21 @@ Ik ben een zelfstandig Product Manager en Klinisch informaticus in de zorg. Besc
 
 :arrow_forward: Ervaring binnen en buiten de muren van de zorginstelling, bij startups en gevestigde bedrijven.
 
+### Mijn werk
+
 Digitalisering en automatisering in de zorg is een zorgenkind. Informatie uitwisselen tussen zorginstellingen verloopt moeizaam en is versnipperd. Informatiesystemen worden niet optimaal benut en de administratielast ligt torenhoog. Zorgprofessionals krijgen niet de IT ondersteuning die nodig is. Daar zorg ik graag voor.
 
 Ik vervul verschillende rollen binnen organisaties en pas me graag aan. Mijn doel is om zo snel mogelijk te identificeren welke waarde toegevoegd kan en moet worden. 
 
-De rode draad in mijn professionele leven is de passie voor het faciliteren van teams in *agile*werken. Ik krijg energie van om teams beter te laten functioneren met meer waarde voor de stakeholders. 
+De rode draad in mijn professionele leven is de passie voor het faciliteren van teams in *agile* werken. Ik krijg energie van het werken met teams om ze beter te laten functioneren met meer waarde voor de stakeholders. 
 
 Mijn motto is dat plezier de helft van het werk is. **Work hard, play hard**.
 
-### Mijn werkzame leven
+### Mijn achtergrond
 
 Afgestudeerd als **fysiotherapeut** en enkele jaren in de eerstelijnszorg gewerkt. Daar kwam ik er al snel achter dat ik de digitalisering en automatisering in de zorg te leuk vond om er niks mee te doen.
 
-Na mijn master Klinische Gezondheidswetenschappen en mijn werk als content manager bij een zorg-IT startup ContextMe, werd ik toegelaten tot de postmaster opleiding (Engineering Doctorate) tot **Klinisch Informaticus**. Die opleiding heb ik met veel plezier in het Prinses Máxima Centrum voor kinderoncologie, wat eigenlijk een grote startup was, omdat de bouw ervan nog moest starten.
+Na mijn master Klinische Gezondheidswetenschappen en mijn werk als content manager bij zorg-IT startup ContextMe, werd ik toegelaten tot de postmaster opleiding (Engineering Doctorate) tot **Klinisch Informaticus**. Die opleiding heb ik met veel plezier in het Prinses Máxima Centrum voor kinderoncologie, wat eigenlijk een grote startup was, omdat de bouw ervan nog moest starten.
 
 Mijn aandacht ging specifiek uit naar standaardisering van informatie, gegevensuitwisseling, innovatieprojecten en het implementeren van software rondom cytostatica, een kernonderdeel binnen de kinderoncologie.
 
