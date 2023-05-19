@@ -17,6 +17,8 @@ Ik ben een zelfstandig Product Manager en Klinisch Informaticus in de zorg. Besc
 
 :arrow_forward: Ervaring binnen en buiten de muren van de zorginstelling, bij startups en gevestigde bedrijven.
 
+---
+
 ### Mijn werk
 
 Digitalisering en automatisering in de zorg is een zorgenkind. Informatie uitwisselen tussen zorginstellingen verloopt moeizaam en is versnipperd. Informatiesystemen worden niet optimaal benut en de administratielast ligt torenhoog. Zorgprofessionals krijgen niet de IT ondersteuning die nodig is. Daar zorg ik graag voor.
@@ -51,4 +53,15 @@ Benieuwd naar wat wij voor elkaar kunnen betekenen? Stuur mij gerust en bij voor
 :mailbox: **E-mail:** [info@fezmo.nl](mailto:info@fezmo.nl)
 
 ---
-_De naam van mijn onderneming is Fezmo en is geregistreerd onder nummer 90238338 bij de Kamer van Koophandel, als een [Besloten Vennootschap](https://en.wikipedia.org/wiki/Besloten_vennootschap) in Nederland._
+
+### Veelgestelde vragen
+
+1. _Wat betekent Fezmo?_
+- Geen flauw idee. Er schoot niks origineels te binnen. Deze willekeurige naam bekte lekker, is fris en vond ik bij me passen.
+
+2. _Werk je ook buiten het domein van de zorg?_
+- Ik ken de zorg goed, maar sta altijd open voor andere zaken. Een lang leven leren is waar ik voor ga.
+
+---
+
+_De naam van mijn onderneming is Fezmo en is geregistreerd onder nummer 90238338 bij de Kamer van Koophandel, als een [Besloten Vennootschap](https://en.wikipedia.org/wiki/Besloten_vennootschap) in Nederland.__De naam van mijn onderneming is Fezmo en is geregistreerd onder nummer 90238338 bij de Kamer van Koophandel, als een [Besloten Vennootschap](https://en.wikipedia.org/wiki/Besloten_vennootschap) in Nederland._
