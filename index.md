@@ -17,6 +17,26 @@ Ik ben een zelfstandig Product Manager en Klinisch Informaticus in de zorg. Besc
 
 :arrow_forward: Ervaring binnen en buiten de muren van de zorginstelling, bij startups en gevestigde bedrijven.
 
+### Services
+
+:arrow_forward: Product Owner / Manager as a service
+
+:arrow_forward: Projectmanager 
+
+:arrow_forward: Informatiearchictect / Business analist on demand
+
+:arrow_forward: Interim teammanager / teamlead
+
+---
+
+### Contact
+
+Benieuwd naar wat wij voor elkaar kunnen betekenen? Stuur mij gerust en bij voorkeur een e-mail of bericht. Kan het echt niet wachten, dan mag je ook bellen.
+
+:iphone: **Bellen, Signal, WhatsApp, iMessage:** +31622856763
+
+:mailbox: **E-mail:** [info@fezmo.nl](mailto:info@fezmo.nl)
+
 ---
 
 ### Mijn werk
@@ -41,16 +61,6 @@ Daarna ben ik als **Product Owner** bij [Philips VitalHealth](https://www.philip
 
 Toen kwam [Founda Health](https://foundahealth.com) mij op het vizier. De laatste 3+ jaar heb ik daar gewerkt aan wat nu een API platform voor gegevensuitwisseling is, op basis van FHIR. Vanaf het begin ben ik hier betrokken in diverse rollen, maar voornamelijk als **Product Manager en Klinisch Informaticus**. Ik ben hier verantwoordelijk geweest voor de ontwikkeling en implementatie van de Clinical Information Exchange Service, waarin ook IHE profielen ondersteund worden, het ontwerpen van een FHIR validatie en capability service en de Transformation service die legacy informatiestandaarden naar FHIR vertaalt.
 Ik heb veel gewerkt met klanten in binnen- en buitenland om de juiste oplossing the ontwerpen en in de markt te zetten.
-
----
-
-### Contact
-
-Benieuwd naar wat wij voor elkaar kunnen betekenen? Stuur mij gerust en bij voorkeur een e-mail of bericht. Kan het echt niet wachten, dan mag je ook bellen.
-
-:iphone: **Bellen, Signal, WhatsApp, iMessage:** +31622856763
-
-:mailbox: **E-mail:** [info@fezmo.nl](mailto:info@fezmo.nl)
 
 ---
 
