@@ -13,9 +13,9 @@ Ik ben een zelfstandig Product Manager en Klinisch Informaticus in de zorg. Besc
 
 ### In een notendop
 
-:arrow_forward: Product Owner/Manager en Klinisch Informaticus in de zorg.
+:heavy_check_mark: Product Owner/Manager en Klinisch Informaticus in de zorg.
 
-:arrow_forward: Ervaring binnen en buiten de muren van de zorginstelling, bij startups en gevestigde bedrijven.
+:heavy_check_mark: Ervaring binnen en buiten de muren van de zorginstelling, bij startups en gevestigde bedrijven.
 
 #### Services
 
