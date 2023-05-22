@@ -17,15 +17,15 @@ Ik ben een zelfstandig Product Manager en Klinisch Informaticus in de zorg. Besc
 
 :arrow_forward: Ervaring binnen en buiten de muren van de zorginstelling, bij startups en gevestigde bedrijven.
 
-### Services
+#### Services
 
-:arrow_forward: Product Owner / Manager as a service
+:arrow_forward: Product Owner / Manager as a service: ik help organisaties om waardevolle producten (door) te ontwikkelen.
 
-:arrow_forward: Projectmanager 
+:arrow_forward: Projectmanager / Informatiearchictect / Business analist on demand: ik voer (korte) opdrachten uit, variërend van advies over gegevensuitwisseling tot de implementatie van nieuwe software op de werkvloer.
 
-:arrow_forward: Informatiearchictect / Business analist on demand
+:arrow_forward: Interim teammanager / teamlead: ik help jouw team efficiënter te werken en meer waarde te creëren.
 
-:arrow_forward: Interim teammanager / teamlead
+:arrow_forward: Information Security Consultant: ik help jouw digital health compliance op orde stellen, zoals de begeleiding bij het implementeren van een Information security management system (ISMS) of als (chief) security officer as-a-service.
 
 ---
 
