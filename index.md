@@ -35,7 +35,7 @@ Benieuwd naar wat wij voor elkaar kunnen betekenen? Stuur mij gerust en bij voor
 
 :iphone: **Bellen, Signal, WhatsApp, iMessage:** +31622856763
 
-:mailbox: **E-mail:** [info@fezmo.nl](mailto:info@fezmo.nl)
+:mailbox: **E-mail:** [hello@fezmo.nl](mailto:hello@fezmo.nl)
 
 ---
 

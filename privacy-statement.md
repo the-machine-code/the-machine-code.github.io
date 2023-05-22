@@ -26,6 +26,6 @@ Fezmo B.V. verwerkt persoonsgegevens voor de volgende doelen:
 
 ### Informatie en contact
 
-Stuur een e-mail naar info@fezmo.nl voor meer informatie.
+Stuur een e-mail naar [info@fezmo.nl](mailto:info@fezmo.nl) voor meer informatie.
 
 Fezmo B.V. staat geregistreerd bij de Kamer van Koophandel te Amsterdam onder nummer 90238338.
