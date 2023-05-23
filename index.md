@@ -7,7 +7,7 @@ published: true
 </div>
 
 ## :wave: Hi, ik ben Thijs van Bruxvoort 
-Ik ben een zelfstandig Product Manager en Klinisch Informaticus in de zorg. Beschikbaar om jouw organisatie vooruit te helpen met uitdagingen op het gebied van zorg, informatie en technologie.
+Beschikbaar om jouw organisatie vooruit te helpen met uitdagingen op het gebied van zorg, informatie en technologie.
 
 ---
 
@@ -21,7 +21,7 @@ Ik ben een zelfstandig Product Manager en Klinisch Informaticus in de zorg. Besc
 
 :arrow_forward: Product Owner / Manager as a service: ik help organisaties om waardevolle producten (door) te ontwikkelen.
 
-:arrow_forward: Projectmanager / Informatiearchictect / Business analist on demand: ik voer (korte) opdrachten uit, variërend van advies over gegevensuitwisseling tot de implementatie van nieuwe software op de werkvloer.
+:arrow_forward: Projectmanager / Informatiearchitect / Business analist on demand: ik voer (korte) opdrachten uit, variërend van advies over gegevensuitwisseling tot de implementatie van nieuwe software op de werkvloer.
 
 :arrow_forward: Interim teammanager / teamlead: ik help jouw team efficiënter te werken en meer waarde te creëren.
 
