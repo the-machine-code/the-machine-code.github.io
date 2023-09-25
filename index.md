@@ -13,15 +13,15 @@ Beschikbaar om jouw organisatie vooruit te helpen met uitdagingen op het gebied 
 
 ### In een notendop
 
-:heavy_check_mark: Product Owner/Manager en Klinisch Informaticus in de zorg.
+:heavy_check_mark: Klinisch Informaticus en Product Manager
 
 :heavy_check_mark: Ervaring binnen en buiten de muren van de zorginstelling, bij startups en gevestigde bedrijven.
 
 #### Services
 
-:arrow_forward: Product Owner / Manager as a service: ik help organisaties om waardevolle producten (door) te ontwikkelen.
+:arrow_forward: Klinisch Informaticus as a service: Ik voer (korte) opdrachten uit als diverse rollen, bijvoorbeeld als projectmanager, informatiearchitect of business analist. Variërend van advies over gegevensuitwisseling in de regio tot de implementatie van nieuwe software op de werkvloer.
 
-:arrow_forward: Projectmanager / Informatiearchitect / Business analist on demand: ik voer (korte) opdrachten uit, variërend van advies over gegevensuitwisseling tot de implementatie van nieuwe software op de werkvloer.
+:arrow_forward: Product Owner / Manager ad interim: ik help organisaties om waardevolle producten (door) te ontwikkelen.
 
 :arrow_forward: Interim teammanager / teamlead: ik help jouw team efficiënter te werken en meer waarde te creëren.
 
@@ -67,10 +67,10 @@ Ik heb veel gewerkt met klanten in binnen- en buitenland om de juiste oplossing 
 ### Veelgestelde vragen
 
 1. _Wat betekent Fezmo?_
-- Geen flauw idee. Er schoot niks origineels te binnen. Deze willekeurige naam bekte lekker, is fris en vond ik bij me passen.
+- Geen flauw idee. Er schoot niks origineels te binnen. Deze willekeurige naam bekt lekker, is fris en vind ik bij mij passen.
 
 2. _Werk je ook buiten het domein van de zorg?_
-- Ik ken de zorg goed, maar sta altijd open voor andere zaken. Een lang leven leren is waar ik voor ga.
+- Ik ken de zorg goed, maar sta altijd open voor andere zaken. Een lang leven leren is waar ik voor ga. Dus bel me gerust als je denkt dat we een goede match zijn.
 
 ---
 
