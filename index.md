@@ -25,8 +25,6 @@ Beschikbaar om jouw organisatie vooruit te helpen met uitdagingen op het gebied 
 
 :arrow_forward: Interim teammanager / teamlead: ik help jouw team efficiënter te werken en meer waarde te creëren.
 
-:arrow_forward: Information Security Consultant: ik help jouw digital health compliance op orde stellen, zoals de begeleiding bij het implementeren van een Information security management system (ISMS) of als (chief) security officer as-a-service.
-
 ---
 
 ### Contact
