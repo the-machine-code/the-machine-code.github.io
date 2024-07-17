@@ -19,7 +19,7 @@ Beschikbaar om jouw organisatie vooruit te helpen met uitdagingen op het gebied 
 
 #### Services
 
-:arrow_forward: Klinisch Informaticus as a service: Ik voer (korte) opdrachten uit als diverse rollen, bijvoorbeeld als projectmanager, informatiearchitect of business analist. Variërend van advies over gegevensuitwisseling in de regio tot de implementatie van nieuwe software op de werkvloer.
+:arrow_forward: Klinisch Informaticus as a service: Ik voer (korte) opdrachten uit in diverse rollen, bijvoorbeeld als projectmanager, informatiearchitect of business analist. Variërend van advies over gegevensuitwisseling in de regio tot de implementatie van nieuwe software op de werkvloer en alles met digitale zorg.
 
 :arrow_forward: Product Owner / Manager ad interim: ik help organisaties om waardevolle producten (door) te ontwikkelen.
 
@@ -45,7 +45,7 @@ Ik vervul verschillende rollen binnen organisaties en pas me graag aan. Mijn doe
 
 De rode draad in mijn professionele leven is de passie voor het faciliteren van teams in *agile* werken. Ik krijg energie van het werken met teams om ze beter te laten functioneren met meer waarde voor de stakeholders. 
 
-Mijn motto is dat plezier de helft van het werk is. **Work hard, play hard**.
+Mijn motto is dat plezier de helft van het werk is.
 
 ### Mijn achtergrond
 
@@ -69,6 +69,11 @@ Ik heb veel gewerkt met klanten in binnen- en buitenland om de juiste oplossing 
 
 2. _Werk je ook buiten het domein van de zorg?_
 - Ik ken de zorg goed, maar sta altijd open voor andere zaken. Een lang leven leren is waar ik voor ga. Dus bel me gerust als je denkt dat we een goede match zijn.
+
+3. _Wat voor opdrachten heb je tot nu toe uitgevoerd?_
+--* Informatiemanager a.i. voor het Universitair Medisch Centrum Utrecht in het kader van de upgrade het EPD naar HiX 6.3 Standaard Content.
+--* Security Officer a.i. voor Sibi. Het implementeren van het ISMS, begeleiden van interne en externe audits voor NEN/ISO certificering.
+--* Projectleider/Analist voor [Digizo.nu](https://digizo.nu/) in het team Waardebepaling & Evaluatie. 
 
 ---
 
