@@ -71,9 +71,9 @@ Ik heb veel gewerkt met klanten in binnen- en buitenland om de juiste oplossing 
 - Ik ken de zorg goed, maar sta altijd open voor andere zaken. Een lang leven leren is waar ik voor ga. Dus bel me gerust als je denkt dat we een goede match zijn.
 
 3. _Wat voor opdrachten heb je tot nu toe uitgevoerd?_
---* Informatiemanager a.i. voor het Universitair Medisch Centrum Utrecht in het kader van de upgrade het EPD naar HiX 6.3 Standaard Content.
---* Security Officer a.i. voor Sibi. Het implementeren van het ISMS, begeleiden van interne en externe audits voor NEN/ISO certificering.
---* Projectleider/Analist voor [Digizo.nu](https://digizo.nu/) in het team Waardebepaling & Evaluatie. 
+⋅⋅* Informatiemanager a.i. voor het Universitair Medisch Centrum Utrecht in het kader van de upgrade het EPD naar HiX 6.3 Standaard Content.
+⋅⋅* Security Officer a.i. voor Sibi. Het implementeren van het ISMS, begeleiden van interne en externe audits voor NEN/ISO certificering.
+⋅⋅* Projectleider/Analist voor [Digizo.nu](https://digizo.nu/) in het team Waardebepaling & Evaluatie. 
 
 ---
 
