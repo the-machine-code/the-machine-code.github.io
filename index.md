@@ -7,73 +7,99 @@ published: true
 </div>
 
 ## :wave: Hi, ik ben Thijs van Bruxvoort 
-Beschikbaar om jouw organisatie vooruit te helpen met uitdagingen op het gebied van zorg, informatie en technologie.
+Beschikbaar om jouw organisatie vooruit te helpen met complexe uitdagingen op het snijvlak van zorg, informatie en technologie.
 
 ---
 
 ### In een notendop
 
-:heavy_check_mark: Klinisch Informaticus en Product Manager
+:heavy_check_mark: Klinisch Informaticus, Product Manager en Security Consultant
 
-:heavy_check_mark: Ervaring binnen en buiten de muren van de zorginstelling, bij startups en gevestigde bedrijven.
+:heavy_check_mark: Ervaring binnen én buiten de zorginstelling – van startups tot gevestigde organisaties.
 
 #### Services
 
-:arrow_forward: Klinisch Informaticus as a service: Ik voer (korte) opdrachten uit in diverse rollen, bijvoorbeeld als projectmanager, informatiearchitect of business analist. Variërend van advies over gegevensuitwisseling in de regio tot de implementatie van nieuwe software op de werkvloer en alles met digitale zorg.
+:arrow_forward: **Klinisch Informaticus as a Service**  
+Ik voer opdrachten uit in uiteenlopende rollen zoals projectmanager, informatiearchitect of business analist. Van regionale gegevensuitwisseling tot implementatie van zorgsoftware op de werkvloer – altijd met digitale zorg als focus.
 
-:arrow_forward: Product Owner / Manager ad interim: ik help organisaties om waardevolle producten (door) te ontwikkelen.
+:arrow_forward: **Product Owner / Manager ad interim**  
+Ik help organisaties om digitale producten slim en met impact (door) te ontwikkelen.
 
-:arrow_forward: Interim teammanager / teamlead: ik help jouw team efficiënter te werken en meer waarde te creëren.
+:arrow_forward: **Teammanager / Teamlead a.i.**  
+Ik begeleid teams naar meer focus, meer waarde en meer plezier in het werk.
+
+:arrow_forward: **Security Consultant / Analist / Architect**  
+Ik help organisaties bij het versterken van hun informatiebeveiliging. Van ISMS implementatie tot threat modeling, risicoanalyses en architectuurbeoordelingen.
 
 ---
 
 ### Contact
 
-Benieuwd naar wat wij voor elkaar kunnen betekenen? Stuur mij gerust en bij voorkeur een e-mail of bericht. Kan het echt niet wachten, dan mag je ook bellen.
+Benieuwd wat we voor elkaar kunnen betekenen? Mail of app gerust. Kan het écht niet wachten? Bellen mag ook.  
 
-:iphone: **Bellen, Signal, WhatsApp, iMessage:** +31622856763
-
-:mailbox: **E-mail:** [hello@fezmo.nl](mailto:hello@fezmo.nl)
+:office: **Bezoekadres:** Coehoornstraat 17, 6811 LA Arnhem  
+:iphone: **Bellen, Signal, WhatsApp, iMessage:** +31622856763  
+:mailbox: **E-mail:** [thijs@fezmo.nl](mailto:thijs@fezmo.nl)
 
 ---
 
 ### Mijn werk
 
-Digitalisering en automatisering in de zorg is een zorgenkind. Informatie uitwisselen tussen zorginstellingen verloopt moeizaam en is versnipperd. Informatiesystemen worden niet optimaal benut en de administratielast ligt torenhoog. Zorgprofessionals krijgen niet de IT ondersteuning die nodig is. Daar zorg ik graag voor.
+De digitalisering van de zorg kan veel beter. Zorgsystemen praten slecht met elkaar, workflows sluiten niet aan en de administratiedruk is veel te hoog. Zorgverleners verdienen IT die wél voor hen werkt – en daar zet ik me voor in.
 
-Ik vervul verschillende rollen binnen organisaties en pas me graag aan. Mijn doel is om zo snel mogelijk te identificeren welke waarde toegevoegd kan en moet worden. 
+Tegelijkertijd zie ik hoe cruciaal goede informatiebeveiliging is. Of het nu gaat om patiëntdata, logistieke ketens of interne systemen: digitale veiligheid is de basis. En als het goed is ingericht, levert het ook rust en wendbaarheid op.
 
-De rode draad in mijn professionele leven is de passie voor het faciliteren van teams in *agile* werken. Ik krijg energie van het werken met teams om ze beter te laten functioneren met meer waarde voor de stakeholders. 
+In mijn werk duik ik snel in de context van een team of organisatie en identificeer waar ik het meeste waarde kan toevoegen. Wat ik meebreng: frisse blik, stevige inhoudelijke kennis, en een natuurlijke drive om dingen simpeler, slimmer en menselijker te maken.
 
-Mijn motto is dat plezier de helft van het werk is.
+Mijn rode draad? Een passie voor samenwerken en verbeteren. Agile werken zit in mijn DNA, maar plezier is de echte sleutel.
+
+---
+
+### Recente opdrachten
+
+De afgelopen periode werkte ik o.a. als:
+
+- **Informatiemanager a.i.** bij de Divisie Interne Geneeskunde & Dermatologie van het UMC Utrecht, m.b.t. upgrade naar HiX 6.3 Standaard Content.
+- **Business Analist & Projectleider** voor [Digizo.nu](https://digizo.nu/), team Waardebepaling & Evaluatie.
+- **IT Security Analist & Architect** bij DHL eCommerce – met focus op risicoanalyse, architectuurverbeteringen en security by design.
+- **Information Security Consultant** bij linQer – continu betrokken bij security assessments en compliance-advies.
+- **Security Officer a.i.** voor Sibi – implementatie van het ISMS en begeleiding van ISO/NEN audits.
+
+---
 
 ### Mijn achtergrond
 
-Afgestudeerd als **fysiotherapeut** en enkele jaren in de eerstelijnszorg gewerkt. Daar kwam ik er al snel achter dat ik de digitalisering en automatisering in de zorg te leuk vond om er niks mee te doen.
+Ik begon mijn loopbaan als fysiotherapeut, maar mijn fascinatie voor technologie en informatie in de zorg won het al snel. 
 
-Na mijn master Klinische Gezondheidswetenschappen en mijn werk als content manager bij zorg-IT startup ContextMe, werd ik toegelaten tot de postmaster opleiding (Engineering Doctorate) tot **Klinisch Informaticus**. Die opleiding heb ik met veel plezier in het Prinses Máxima Centrum voor kinderoncologie, wat eigenlijk een grote startup was, omdat de bouw ervan nog moest starten.
+Na mijn master Klinische Gezondheidswetenschappen en een tussenstap als contentmanager bij een zorg-IT startup, volgde ik de postmaster tot **Klinisch Informaticus** aan de TU/e – in het Prinses Máxima Centrum voor Kinderoncologie, waar ik werkte aan de inrichting van een nieuw ziekenhuis én nieuwe IT.
 
-Mijn aandacht ging specifiek uit naar standaardisering van informatie, gegevensuitwisseling, innovatieprojecten en het implementeren van software rondom cytostatica, een kernonderdeel binnen de kinderoncologie.
+Daarna werkte ik o.a. als:
 
-Daarna ben ik als **Product Owner** bij [Philips VitalHealth](https://www.philips.be/healthcare/sites/vitalhealth/homepage) aan de bak gegaan, wat een zeer leerzame periode was. De invoering van het nieuwe Product Development Lifecyce Management (PDLM) proces, potentiële Medical Device Regulation (MDR) classicficatie én het internationeel brengen van de PROMS applicatie QuestLink zijn zaken waar ik me mee bezig heb gehouden.
+- **Product Owner** bij [Philips VitalHealth](https://www.philips.be/healthcare/sites/vitalhealth/homepage) – met focus op internationale productlancering en MDR.
+- **Product Manager & Klinisch Informaticus** bij [Founda Health](https://foundahealth.com) – waar ik mee bouwde aan een internationaal FHIR-gebaseerd platform voor gegevensuitwisseling.
 
-Toen kwam [Founda Health](https://foundahealth.com) mij op het vizier. De laatste 3+ jaar heb ik daar gewerkt aan wat nu een API platform voor gegevensuitwisseling is, op basis van FHIR. Vanaf het begin ben ik hier betrokken in diverse rollen, maar voornamelijk als **Product Manager en Klinisch Informaticus**. Ik ben hier verantwoordelijk geweest voor de ontwikkeling en implementatie van de Clinical Information Exchange Service, waarin ook IHE profielen ondersteund worden, het ontwerpen van een FHIR validatie en capability service en de Transformation service die legacy informatiestandaarden naar FHIR vertaalt.
-Ik heb veel gewerkt met klanten in binnen- en buitenland om de juiste oplossing the ontwerpen en in de markt te zetten.
+---
+
+### De Geldvrienden 💸
+
+Naast mijn werk in de zorg-IT ben ik ook **oprichter van [De Geldvrienden](https://geldvrienden.nl)** – een onafhankelijk platform waarmee we financiële eindbazen maken. Samen met Jeroen maak ik een toegankelijke podcast over geld, keuzes en vrijheid. Zonder gladde praatjes, maar mét diepgang en een vleug humor.
+
+We schrijven ook een boek: **‘De Geldvrienden – Gouden regels voor een rijk leeven’**. Een gids over hoe je met geld, energie en tijd je eigen leven kunt bouwen. Verwacht slimme inzichten, eerlijke verhalen en praktische tips – vanaf najaar 2025 beschikbaar.
+
+Volg ons alvast via je favoriete podcastapp of op [Instagram](https://instagram.com/de_geldvrienden) en blijf op de hoogte van het boek!
 
 ---
 
 ### Veelgestelde vragen
 
-1. _Wat betekent Fezmo?_
-- Geen flauw idee. Er schoot niks origineels te binnen. Deze willekeurige naam bekt lekker, is fris en vind ik bij mij passen.
+1. _Wat betekent Fezmo?_  
+Geen idee. De naam kwam spontaan op. Hij klinkt fris en past bij mij.
 
-2. _Werk je ook buiten het domein van de zorg?_
-- Ik ken de zorg goed, maar sta altijd open voor andere zaken. Een lang leven leren is waar ik voor ga. Dus bel me gerust als je denkt dat we een goede match zijn.
+2. _Werk je alleen in de zorg?_  
+Nee. Hoewel ik diep geworteld ben in zorg-IT, werk ik ook graag aan complexe digitale vraagstukken in andere sectoren.
 
-3. _Wat voor opdrachten heb je tot nu toe uitgevoerd?_
-- Informatiemanager a.i. voor het Universitair Medisch Centrum Utrecht in het kader van de upgrade het EPD naar HiX 6.3 Standaard Content.
-- Security Officer a.i. voor Sibi. Het implementeren van het ISMS, begeleiden van interne en externe audits voor NEN/ISO certificering.
-- Projectleider/Analist voor [Digizo.nu](https://digizo.nu/) in het team Waardebepaling & Evaluatie. 
+3. _Wat voor opdrachten doe je?_  
+Zie hierboven – maar neem vooral contact op als je denkt dat we kunnen samenwerken.
 
 ---
 
