@@ -84,7 +84,7 @@ Daarna werkte ik o.a. als:
 
 Naast mijn werk in de zorg-IT ben ik ook **oprichter van [De Geldvrienden](https://geldvrienden.nl)** – een onafhankelijk platform waarmee we financiële eindbazen maken. Samen met Jeroen maak ik een toegankelijke podcast over geld, keuzes en vrijheid. Zonder gladde praatjes, maar mét diepgang en een vleug humor.
 
-We schrijven ook een boek: **‘De Geldvrienden – Gouden regels voor een rijk leeven’**. Een gids over hoe je met geld, energie en tijd je eigen leven kunt bouwen. Verwacht slimme inzichten, eerlijke verhalen en praktische tips – vanaf najaar 2025 beschikbaar.
+We schrijven ook een boek: **‘De Geldvrienden – Gouden regels voor een rijk leven’**. Een gids over hoe je met geld, energie en tijd je eigen leven kunt bouwen. Verwacht slimme inzichten, eerlijke verhalen en praktische tips – vanaf najaar 2025 beschikbaar.
 
 Volg ons alvast via je favoriete podcastapp of op [Instagram](https://instagram.com/de_geldvrienden) en blijf op de hoogte van het boek!
 
