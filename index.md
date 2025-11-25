@@ -4,7 +4,7 @@ published: true
 ---
 
 <div style="text-align: center;">
-<img src="{{ site.baseurl }}/images/Thijs.png" alt="Profielfoto Thijs" align="center" style="width: 250px;"/>
+<img src="{{ site.baseurl }}/images/Thijs.jpg" alt="Profielfoto Thijs" align="center" style="width: 250px;"/>
 </div>
 
 ## :wave: Hi, ik ben Thijs van Bruxvoort  
