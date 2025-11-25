@@ -28,6 +28,6 @@ Snel schakelen, duidelijk communiceren en oplossingen die echt iets oplossen.
 
 ## contact
 
-:mailbox: **Mail naar** [hello@fezmo.nl](mailto:hello@fezmo.nl) :office: **Bezoekadres:** Coehoornstraat 17, 6811 LA Arnhem   :iphone: **Bellen, Signal:** +31622856763
+:mailbox: **Mail naar** [hello@fezmo.nl](mailto:hello@fezmo.nl) :office: **Bezoekadres:** Coehoornstraat 17, 6811 LA Arnhem   :phone: **Bellen/Signal:** +31622856763
 
 Fezmo B.V. – KVK 90238338
